@@ -1,12 +1,12 @@
 # Hi, I'm Jayslim 👋
 
-🚀 **Systems & Full-Stack Developer** • 📟 **RobCo Terminal Operator** • 🐍 **Vault 101 Overseer**
+🚀 **Systems & Full-Stack Developer** • 🎮 **Gamer & Tinkerer** • 🐍 **Tunnel Snakes Rule!**
 
-Wasteland wanderer and developer focused on desktop architecture, automated vision engines, and astronomical tracking systems.
+Full-stack developer focused on building desktop applications, automated computer vision engines, and real-time tracking systems.
 
 ---
 
-### 🧰 Skills & Subroutines
+### 🧰 Skills & Technologies
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
@@ -21,6 +21,8 @@ Wasteland wanderer and developer focused on desktop architecture, automated visi
 
 ---
 
-### ⚡ Vault-Tec Directive Log
-> `>> S.P.E.C.I.A.L.` — **STR:** 8 | **PER:** 9 | **END:** 7 | **CHA:** 7 | **INT:** 10 | **AGI:** 8 | **LCK:** 9  
-> `>> DIRECTIVES` — Real-time Ephemeris Trackers • Computer Vision Scanners • IPTV Engines • Game Automation
+### 📌 Focus Areas
+* 🪐 **Astronomical & Tracking Tools** — Real-time ephemeris data visualizations
+* 🎴 **Computer Vision & Scanner Engines** — Automated TCG image recognition pipelines
+* 📺 **Media Players** — High-performance desktop IPTV streaming
+* 🤖 **Automation** — Game scripting and simulation tooling
