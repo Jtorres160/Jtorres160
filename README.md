@@ -1,56 +1,26 @@
-<div align="center">
+# Hi, I'm Jayslim 👋
 
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="30" height="30" /> Hey, I'm <span style="color: #61afef;">Jayslim</span>
+🚀 **Systems & Full-Stack Developer** • 📟 **RobCo Terminal Operator** • 🐍 **Vault 101 Overseer**
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=1000&color=00E5FF&background=0D111700&center=true&vCenter=true&multiline=false&width=550&lines=Full-Stack+%26+Systems+Developer;Tinkering+with+C%2B%2B%2C+React+%26+Python;Building+Fast+Desktop+%26+Media+Tools;Tunnel+Snakes+Rule!)](https://git.io/typing-svg)
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Focus-Systems_%26_Desktop-00bcd4?style=for-the-badge&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/Status-Building_%26_Tinkering-8a2be2?style=for-the-badge&labelColor=0d1117" />
-  <img src="https://komarev.com/ghpvc/?username=Jtorres160&color=238636&style=for-the-badge&label=VIEWS" />
-</p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,25&height=100&section=header" width="100%"/>
-
-</div>
-
-### 🚀 <span style="color: #61afef;">What I'm Building</span>
-
-* 🪐 **`Astronomy & Space`** ➔ Real-time orbit tracking & space data visualizers
-* 🎴 **`Computer Vision`** ➔ Multi-TCG card image scanner & recognition pipelines
-* 📺 **`Media Applications`** ➔ High-performance IPTV streaming players
-* 🎮 **`Game Tooling & Bots`** ➔ Automation scripts, custom engines & simulations
+Wasteland wanderer and developer focused on desktop architecture, automated vision engines, and astronomical tracking systems.
 
 ---
 
-### 🛠️ <span style="color: #98c379;">Languages & Technologies</span>
+### 🧰 Skills & Subroutines
 
-<div align="left">
-
-**Languages**
-<br/>
-<img src="https://skillicons.dev/icons?i=cpp,cs,python,ts,js,html,css" />
-
-<br/><br/>
-
-**Frameworks, Libraries & Databases**
-<br/>
-<img src="https://skillicons.dev/icons?i=react,nodejs,dotnet,electron,sqlite" />
-
-<br/><br/>
-
-**Tools, Systems & Environments**
-<br/>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,windows,android" />
-
-</div>
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![.NET Core](https://img.shields.io/badge/.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 
 ---
 
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,25&height=80&section=footer" width="100%"/>
-
-<sub>🐍 <b>"Tunnel Snakes Rule!"</b> 🐍</sub>
-
-</div>
+### ⚡ Vault-Tec Directive Log
+> `>> S.P.E.C.I.A.L.` — **STR:** 8 | **PER:** 9 | **END:** 7 | **CHA:** 7 | **INT:** 10 | **AGI:** 8 | **LCK:** 9  
+> `>> DIRECTIVES` — Real-time Ephemeris Trackers • Computer Vision Scanners • IPTV Engines • Game Automation
