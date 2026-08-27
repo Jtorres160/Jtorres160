@@ -1,6 +1,6 @@
 # Hi there, I'm Jayslim 👋
 
-# A developer passionate about building desktop apps, media tools, and AI integrations.
+# A nerd who likes everything
 # I liek Turtles
 
 ### 🛠️ Languages & Tech Stack
