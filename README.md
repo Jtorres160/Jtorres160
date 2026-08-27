@@ -39,21 +39,6 @@
 
 ---
 
-### 📊 GitHub Activity & Languages
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jtorres160&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jtorres160&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" height="165" alt="Top Languages" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jtorres160&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=ff7b72&currStreakLabel=58a6ff" height="165" alt="GitHub Streak" />
-</div>
-
----
-
 <div align="center">
   <sub>"Tunnel Snakes Rule!" 🐍</sub>
 </div>
