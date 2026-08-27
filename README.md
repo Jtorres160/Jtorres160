@@ -1,6 +1,7 @@
 # Hi there, I'm Jayslim 👋
 
 A developer passionate about building desktop apps, media tools, and AI integrations.
+I liek Turtles
 
 ### 🛠️ Languages & Tech Stack
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
