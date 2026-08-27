@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+## Just a Nerd who loves C++
 <!--
 **Jtorres160/Jtorres160** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
