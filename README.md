@@ -2,7 +2,7 @@
 
 🚀 **Developer** • 🐍 **Tunnel Snakes Rule!**
 
-Full-stack developer focused on building desktop applications, automated computer vision engines, and real-time tracking systems.
+Just a developer who likes building snappy desktop apps, playing with computer vision, and tracking random things across space in real time.
 
 ---
 
