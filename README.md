@@ -1,6 +1,6 @@
 # Hi, I'm Jayslim 👋
 
-🚀 **Systems & Full-Stack Developer** • 🎮 **Gamer & Tinkerer** • 🐍 **Tunnel Snakes Rule!**
+🚀 **Developer** • 🐍 **Tunnel Snakes Rule!**
 
 Full-stack developer focused on building desktop applications, automated computer vision engines, and real-time tracking systems.
 
